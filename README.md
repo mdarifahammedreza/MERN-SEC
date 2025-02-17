@@ -1,6 +1,6 @@
 # Web Development Course
 
-Welcome to the **Web Development Course**! This course is designed to take you from a beginner to a proficient web developer, covering both frontend and backend technologies. By the end of this course, you will be able to build dynamic, responsive, and full-stack web applications.
+Welcome to the **Web Development Course(MERN)**! This course is designed to take you from a beginner to a proficient web developer, covering both frontend and backend technologies. By the end of this course, you will be able to build dynamic, responsive, and full-stack web applications.
 
 ---
 
