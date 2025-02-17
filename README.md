@@ -76,4 +76,4 @@ Here are the tools and technologies you'll use throughout the course:
    - [MongoDB](https://www.mongodb.com/)
 2. **Clone This Repository** (if applicable):
    ```bash
-   git clone https://github.com/your-repo/web-development-course.git
+   git clone https://github.com/mdarifahammedreza/MERN-SEC.git
